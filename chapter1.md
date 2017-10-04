@@ -2,7 +2,10 @@
 
 ```
     <?php
-    // test
+    // test class
+    class Car {  
+        private $model;
+    }
 ```
 
 

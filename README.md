@@ -1,3 +1,4 @@
-# My Awesome Book
+# PHP - Object Oriented Tutorial
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+The purpose of this tutorial is to explore Object Oriented Programming using PHP, these concepts have been around since 1970s and apply to any other languages that support OOP.
+

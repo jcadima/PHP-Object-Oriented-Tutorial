@@ -61,9 +61,33 @@ Properties allows our class to store data, methods allows us to execute certain 
 +-------------+
 ```
 
+We write methods in a similarly way as class properties:	
 
+```php
+class User {
+	protected $name;
+	protected $email;
+	protected $password;
 
+	public function getName() {
+		// method body
+	} 
 
+	public function getEmail() {
+		// ...
+	} 
+
+	public function setName() {
+		// ...
+	} 
+
+	public function setEmail() {
+		// ...
+	} 
+}
+```
+
+As seen in the class above, methods must be declared in the body of the class, they can have a number of arguments just like functions, and also the visibility keyword, if this is omitted it will default to public.
 
 
 

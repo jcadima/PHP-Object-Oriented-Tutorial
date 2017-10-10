@@ -155,17 +155,17 @@ We can make use of these PHP functions to check for the type of data we are gett
 
 | Function      | Function Type      | Description             |
 |---------------|--------------------|-------------------------|
-| is_null()     | Null               | Unassigned              |
-| is_resource() | Resource           | Database or File Handle |
-| is_object     | Object             | An Object               |
-| is_array()    | Array              | An Array                |
-| is_string()   | String             | Characters              |
-| is_double()   | Double             | Floating point number   |
-| is_float()    | (alias of Double)  | An alias of Double      |
-| is_integer()  | Integer            | whole number            |
-| is_int()      | (alias of Integer) | whole number            |
-| is_long()     | (alias of Integer) | whole number            |
-| is_bool()     | Boolean            | true or false           |
+| [is_null()](http://php.net/manual/en/function.is-null.php)     | Null               | Unassigned              |
+| [is_resource()](http://php.net/manual/en/function.is-resource.php) | Resource           | Database or File Handle |
+| [is_object](http://php.net/manual/en/function.is-object.php)     | Object             | An Object               |
+| [is_array()](http://php.net/manual/en/function.is-array.php)    | Array              | An Array                |
+| [is_string()](http://php.net/manual/en/function.is-string.php)   | String             | Characters              |
+| [is_double()](http://php.net/manual/en/function.is-double.php)   | Double             | Floating point number   |
+| [is_float()](http://php.net/manual/en/function.is-float.php)    | (alias of Double)  | An alias of Double      |
+| [is_integer()](http://php.net/manual/en/function.is-integer.php)  | Integer            | whole number            |
+| [is_int()](http://php.net/manual/en/function.is-int.php)      | (alias of Integer) | whole number            |
+| [is_long()](http://php.net/manual/en/function.is-long.php)     | (alias of Integer) | whole number            |
+| [is_bool()](http://php.net/manual/en/function.is-bool.php)     | Boolean            | true or false           |
 
 
 But having many of these type checks will only add more lines of code.

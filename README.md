@@ -3,7 +3,7 @@ The purpose of this tutorial is to explore Object Oriented Programming using PHP
 
 PHP is a server side scripting language at its core, and it is used mainly for web development although it can be used for other tasks, it does a better job on the server side.
 
-Object Oriented Programming has been around in other languages such as Java, C++, Javascript and others but in PHP it was added to PHP 5. 
+Objects appeared first in PHP version 3, but it wasn't at the heart of the language until PHP version 5 was released.
 
 
 # PHP 7: The new PHP

@@ -1,7 +1,7 @@
 # Table of Contents
 
 - [x] [Introduction](README.md)
-- [x] [1. Classes](chapter1.md)
+- [x] [1. Classes](1.Classes.md)
 - [ ] 2. Magic Methods
 - [ ] 3. Static Methods
 - [ ] 4. Chaining Methods

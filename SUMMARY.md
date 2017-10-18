@@ -2,7 +2,7 @@
 
 - [x] [Introduction](README.md)
 - [x] [1. Classes](1.Classes.md)
-- [ ] 2. Magic Methods
+- [x] [2. Magic Methods](2.MagicMethods.md)
 - [ ] 3. Static Methods
 - [ ] 4. Chaining Methods
 - [ ] 5. Polymorphism

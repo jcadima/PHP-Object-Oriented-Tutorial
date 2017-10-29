@@ -3,16 +3,15 @@
 - [x] [Introduction](README.md)
 - [x] [1. Classes](1.Classes.md)
 - [x] [2. Magic Methods](2.MagicMethods.md)
-- [ ] 3. Static Methods
-- [ ] 4. Chaining Methods
-- [ ] 5. Polymorphism
-- [ ] 6. Type hinting
-- [ ] 7. Inheritance
-- [ ] 8. Abstract Classes
-- [ ] 9. Interfaces
-- [ ] 10. Traits
-- [ ] 11. Namespaces
-- [ ] 12. Dependency Injection
-- [ ] 13. Exceptions
-- [ ] 14. PDO
-- [ ] 15. MVC
+- [x] [3. Static Methods](3.StaticMethods.md)
+- [ ] 4. Polymorphism
+- [ ] 5. Type hinting
+- [ ] 6. Inheritance
+- [ ] 7. Abstract Classes
+- [ ] 8. Interfaces
+- [ ] 9. Traits
+- [ ] 10. Namespaces
+- [ ] 11. Dependency Injection
+- [ ] 12. Exceptions
+- [ ] 13. PDO
+- [ ] 14. MVC
